@@ -1,19 +1,54 @@
-# Casa de Câmbio
+# PROJETO TO DO LIST 📋✏️
 
-Melhor site para consultar câmbios do mundo. Não! Da galáxia... Não! do universo.
+- O objetivo foi criar um conversor de moedas, de acordo com o câmbio atual, consumindo uma Api usando o fetch e renderizando as moedas
 
-Nesse site utilizamos o serviço ratesapi.io
+- Utilizamos HTML, CSS e JAVASCRIPT usando o fetch para consumir os dados das moedas e criar uma lista para ser renderizada de acordo com a moeda escolhida.
+<br></br>
 
-## Bônus para praticar 💚
+<p align="center">
 
-> Preparamos essa lista de exercícios **NÃO OBRIGATÓRIOS** para vocês se divertirem 🙂
+  <img src="./PROJETO-CASA-CAMBIO.gif" />
 
-> *Não haverá correção automatizada pelo avaliador.*
+</p>
 
-1. Adicione um botão "limpar" que, ao ser clicado, apaga toda a listagem de moedas.
+<span align="center">
 
-2. Ordene a lista de moedas por ordem alfabética.
+**[ABRIR PROJETO NO NAVEGADOR]()**
 
-3. Inclua a opção para a pessoa usuária pesquisar pela moeda BTC, que corresponde ao Bitcoin.
-- Ao pesquisar por BTC, consulte [essa API](https://api.coindesk.com/v1/bpi/currentprice.json). Ela vai retornar valores apenas em USD, GBP e EUR.
-- Atenção ao formato da resposta da API!
+</span>
+
+---
+
+# TECNOLOGIAS UTILIZADAS 💻
+
+- **HTML**
+- **CSS**
+- **JAVASCRIPT**
+- **FETCH**
+- **API**
+  <br></br>
+
+---
+
+# INSTRUÇÕES IMPORTANTES 📝
+
+## COMO BAIXAR O PROJETO:
+
+1. Clone o repositório:
+   - **`git clone git@github.com:ANDREHORMAN1994/PROJECT-09-CASA-CAMBIO.git`**
+2. Entre na pasta do repositório que você acabou de clonar:
+   - **`cd PROJECT-09-CASA-CAMBIO`**
+     <br></br>
+
+## COMO RODAR O PROJETO:
+
+1. Baixe a Extensão Live Server:
+   - Clique no ícone **`Extensions`** do Vs Code ou use o atalho **`CTRL + SHIFT + X`**
+   - Digite no campo de busca **`Live Server`**
+   - Instale a extensão
+   - Abra o arquivo **`index.html`** \* Clique no botão **`“Go Live”`** no canto inferior do Vs Code ou Execute o comando **`ALT + L ALT + O`** para abrir com o Live Server.
+     <br></br>
+
+---
+
+# VQV 🚀
