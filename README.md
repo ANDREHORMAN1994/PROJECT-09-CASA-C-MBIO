@@ -1,4 +1,4 @@
-# PROJETO TO DO LIST 📋✏️
+# PROJETO CASA DE CÂMBIO 💰
 
 - O objetivo foi criar um conversor de moedas, de acordo com o câmbio atual, consumindo uma Api usando o fetch e renderizando as moedas
 
@@ -13,7 +13,7 @@
 
 <span align="center">
 
-**[ABRIR PROJETO NO NAVEGADOR]()**
+**[ABRIR PROJETO NO NAVEGADOR](https://andrehorman1994.github.io/PROJECT-09-CASA-CAMBIO/)**
 
 </span>
 
